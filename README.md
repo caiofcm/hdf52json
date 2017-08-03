@@ -1,2 +1,3 @@
-# hdf52json
-Convert hdf5 to json
+# hdf52json_cm
+
+Convert hdf5 to json functions
